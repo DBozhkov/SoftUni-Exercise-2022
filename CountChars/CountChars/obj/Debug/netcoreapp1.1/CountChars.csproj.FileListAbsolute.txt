@@ -1,0 +1,10 @@
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\CountChars\CountChars\bin\Debug\netcoreapp1.1\CountChars.deps.json
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\CountChars\CountChars\bin\Debug\netcoreapp1.1\CountChars.runtimeconfig.json
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\CountChars\CountChars\bin\Debug\netcoreapp1.1\CountChars.runtimeconfig.dev.json
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\CountChars\CountChars\bin\Debug\netcoreapp1.1\CountChars.dll
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\CountChars\CountChars\bin\Debug\netcoreapp1.1\CountChars.pdb
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\CountChars\CountChars\obj\Debug\netcoreapp1.1\CountChars.csprojAssemblyReference.cache
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\CountChars\CountChars\obj\Debug\netcoreapp1.1\CountChars.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\CountChars\CountChars\obj\Debug\netcoreapp1.1\CountChars.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\CountChars\CountChars\obj\Debug\netcoreapp1.1\CountChars.dll
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\CountChars\CountChars\obj\Debug\netcoreapp1.1\CountChars.pdb
