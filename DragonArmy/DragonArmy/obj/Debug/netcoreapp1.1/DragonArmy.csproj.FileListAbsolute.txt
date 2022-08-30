@@ -1,0 +1,10 @@
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\DragonArmy\DragonArmy\bin\Debug\netcoreapp1.1\DragonArmy.deps.json
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\DragonArmy\DragonArmy\bin\Debug\netcoreapp1.1\DragonArmy.runtimeconfig.json
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\DragonArmy\DragonArmy\bin\Debug\netcoreapp1.1\DragonArmy.runtimeconfig.dev.json
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\DragonArmy\DragonArmy\bin\Debug\netcoreapp1.1\DragonArmy.dll
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\DragonArmy\DragonArmy\bin\Debug\netcoreapp1.1\DragonArmy.pdb
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\DragonArmy\DragonArmy\obj\Debug\netcoreapp1.1\DragonArmy.csprojAssemblyReference.cache
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\DragonArmy\DragonArmy\obj\Debug\netcoreapp1.1\DragonArmy.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\DragonArmy\DragonArmy\obj\Debug\netcoreapp1.1\DragonArmy.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\DragonArmy\DragonArmy\obj\Debug\netcoreapp1.1\DragonArmy.dll
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\DragonArmy\DragonArmy\obj\Debug\netcoreapp1.1\DragonArmy.pdb
