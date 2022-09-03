@@ -1,0 +1,9 @@
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\06.ReplaceRepeatingChars\bin\Debug\netcoreapp1.1\06.ReplaceRepeatingChars.deps.json
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\06.ReplaceRepeatingChars\bin\Debug\netcoreapp1.1\06.ReplaceRepeatingChars.runtimeconfig.json
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\06.ReplaceRepeatingChars\bin\Debug\netcoreapp1.1\06.ReplaceRepeatingChars.runtimeconfig.dev.json
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\06.ReplaceRepeatingChars\bin\Debug\netcoreapp1.1\06.ReplaceRepeatingChars.dll
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\06.ReplaceRepeatingChars\bin\Debug\netcoreapp1.1\06.ReplaceRepeatingChars.pdb
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\06.ReplaceRepeatingChars\obj\Debug\netcoreapp1.1\06.ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\06.ReplaceRepeatingChars\obj\Debug\netcoreapp1.1\06.ReplaceRepeatingChars.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\06.ReplaceRepeatingChars\obj\Debug\netcoreapp1.1\06.ReplaceRepeatingChars.dll
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\06.ReplaceRepeatingChars\obj\Debug\netcoreapp1.1\06.ReplaceRepeatingChars.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\02.CharacterMultiplier\bin\Debug\netcoreapp1.1\02.CharacterMultiplier.deps.json
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\02.CharacterMultiplier\bin\Debug\netcoreapp1.1\02.CharacterMultiplier.runtimeconfig.json
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\02.CharacterMultiplier\bin\Debug\netcoreapp1.1\02.CharacterMultiplier.runtimeconfig.dev.json
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\02.CharacterMultiplier\bin\Debug\netcoreapp1.1\02.CharacterMultiplier.dll
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\02.CharacterMultiplier\bin\Debug\netcoreapp1.1\02.CharacterMultiplier.pdb
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\02.CharacterMultiplier\obj\Debug\netcoreapp1.1\02.CharacterMultiplier.csprojAssemblyReference.cache
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\02.CharacterMultiplier\obj\Debug\netcoreapp1.1\02.CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\02.CharacterMultiplier\obj\Debug\netcoreapp1.1\02.CharacterMultiplier.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\02.CharacterMultiplier\obj\Debug\netcoreapp1.1\02.CharacterMultiplier.dll
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\02.CharacterMultiplier\obj\Debug\netcoreapp1.1\02.CharacterMultiplier.pdb

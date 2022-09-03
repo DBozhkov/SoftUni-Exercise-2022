@@ -1,0 +1,10 @@
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\08.LettersChangeNumbers\bin\Debug\netcoreapp1.1\08.LettersChangeNumbers.deps.json
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\08.LettersChangeNumbers\bin\Debug\netcoreapp1.1\08.LettersChangeNumbers.runtimeconfig.json
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\08.LettersChangeNumbers\bin\Debug\netcoreapp1.1\08.LettersChangeNumbers.runtimeconfig.dev.json
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\08.LettersChangeNumbers\bin\Debug\netcoreapp1.1\08.LettersChangeNumbers.dll
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\08.LettersChangeNumbers\bin\Debug\netcoreapp1.1\08.LettersChangeNumbers.pdb
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\08.LettersChangeNumbers\obj\Debug\netcoreapp1.1\08.LettersChangeNumbers.csprojAssemblyReference.cache
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\08.LettersChangeNumbers\obj\Debug\netcoreapp1.1\08.LettersChangeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\08.LettersChangeNumbers\obj\Debug\netcoreapp1.1\08.LettersChangeNumbers.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\08.LettersChangeNumbers\obj\Debug\netcoreapp1.1\08.LettersChangeNumbers.dll
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\08.LettersChangeNumbers\obj\Debug\netcoreapp1.1\08.LettersChangeNumbers.pdb

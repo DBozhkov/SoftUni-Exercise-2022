@@ -1,0 +1,9 @@
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\03.ExtractFile\bin\Debug\netcoreapp1.1\03.ExtractFile.deps.json
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\03.ExtractFile\bin\Debug\netcoreapp1.1\03.ExtractFile.runtimeconfig.json
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\03.ExtractFile\bin\Debug\netcoreapp1.1\03.ExtractFile.runtimeconfig.dev.json
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\03.ExtractFile\bin\Debug\netcoreapp1.1\03.ExtractFile.dll
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\03.ExtractFile\bin\Debug\netcoreapp1.1\03.ExtractFile.pdb
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\03.ExtractFile\obj\Debug\netcoreapp1.1\03.ExtractFile.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\03.ExtractFile\obj\Debug\netcoreapp1.1\03.ExtractFile.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\03.ExtractFile\obj\Debug\netcoreapp1.1\03.ExtractFile.dll
+C:\Users\Dimitar\Desktop\repoNew\SoftUni-Exercise-2022\01.ValidUsernames\03.ExtractFile\obj\Debug\netcoreapp1.1\03.ExtractFile.pdb
