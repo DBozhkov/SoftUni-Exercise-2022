@@ -1,0 +1,10 @@
+C:\Users\Dimitar\source\repos\RegularExpressions\04.StarEnigma\bin\Debug\netcoreapp1.1\04.StarEnigma.deps.json
+C:\Users\Dimitar\source\repos\RegularExpressions\04.StarEnigma\bin\Debug\netcoreapp1.1\04.StarEnigma.runtimeconfig.json
+C:\Users\Dimitar\source\repos\RegularExpressions\04.StarEnigma\bin\Debug\netcoreapp1.1\04.StarEnigma.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\RegularExpressions\04.StarEnigma\bin\Debug\netcoreapp1.1\04.StarEnigma.dll
+C:\Users\Dimitar\source\repos\RegularExpressions\04.StarEnigma\bin\Debug\netcoreapp1.1\04.StarEnigma.pdb
+C:\Users\Dimitar\source\repos\RegularExpressions\04.StarEnigma\obj\Debug\netcoreapp1.1\04.StarEnigma.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\RegularExpressions\04.StarEnigma\obj\Debug\netcoreapp1.1\04.StarEnigma.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\RegularExpressions\04.StarEnigma\obj\Debug\netcoreapp1.1\04.StarEnigma.dll
+C:\Users\Dimitar\source\repos\RegularExpressions\04.StarEnigma\obj\Debug\netcoreapp1.1\04.StarEnigma.pdb
+C:\Users\Dimitar\source\repos\RegularExpressions\04.StarEnigma\obj\Debug\netcoreapp1.1\04.StarEnigma.csprojAssemblyReference.cache
