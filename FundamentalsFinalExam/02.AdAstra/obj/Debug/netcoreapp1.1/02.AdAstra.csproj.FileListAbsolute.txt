@@ -1,0 +1,10 @@
+C:\Users\Dimitar\source\repos\FundamentalsFinalExam\02.AdAstra\bin\Debug\netcoreapp1.1\02.AdAstra.deps.json
+C:\Users\Dimitar\source\repos\FundamentalsFinalExam\02.AdAstra\bin\Debug\netcoreapp1.1\02.AdAstra.runtimeconfig.json
+C:\Users\Dimitar\source\repos\FundamentalsFinalExam\02.AdAstra\bin\Debug\netcoreapp1.1\02.AdAstra.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\FundamentalsFinalExam\02.AdAstra\bin\Debug\netcoreapp1.1\02.AdAstra.dll
+C:\Users\Dimitar\source\repos\FundamentalsFinalExam\02.AdAstra\bin\Debug\netcoreapp1.1\02.AdAstra.pdb
+C:\Users\Dimitar\source\repos\FundamentalsFinalExam\02.AdAstra\obj\Debug\netcoreapp1.1\02.AdAstra.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\FundamentalsFinalExam\02.AdAstra\obj\Debug\netcoreapp1.1\02.AdAstra.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\FundamentalsFinalExam\02.AdAstra\obj\Debug\netcoreapp1.1\02.AdAstra.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\FundamentalsFinalExam\02.AdAstra\obj\Debug\netcoreapp1.1\02.AdAstra.dll
+C:\Users\Dimitar\source\repos\FundamentalsFinalExam\02.AdAstra\obj\Debug\netcoreapp1.1\02.AdAstra.pdb
