@@ -1,0 +1,9 @@
+C:\Users\Dimitar\source\repos\StacksAndQueuesExcc\03.MaximumandMinimumElement\bin\Debug\netcoreapp1.1\03.MaximumandMinimumElement.deps.json
+C:\Users\Dimitar\source\repos\StacksAndQueuesExcc\03.MaximumandMinimumElement\bin\Debug\netcoreapp1.1\03.MaximumandMinimumElement.runtimeconfig.json
+C:\Users\Dimitar\source\repos\StacksAndQueuesExcc\03.MaximumandMinimumElement\bin\Debug\netcoreapp1.1\03.MaximumandMinimumElement.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\StacksAndQueuesExcc\03.MaximumandMinimumElement\bin\Debug\netcoreapp1.1\03.MaximumandMinimumElement.dll
+C:\Users\Dimitar\source\repos\StacksAndQueuesExcc\03.MaximumandMinimumElement\bin\Debug\netcoreapp1.1\03.MaximumandMinimumElement.pdb
+C:\Users\Dimitar\source\repos\StacksAndQueuesExcc\03.MaximumandMinimumElement\obj\Debug\netcoreapp1.1\03.MaximumandMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\StacksAndQueuesExcc\03.MaximumandMinimumElement\obj\Debug\netcoreapp1.1\03.MaximumandMinimumElement.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\StacksAndQueuesExcc\03.MaximumandMinimumElement\obj\Debug\netcoreapp1.1\03.MaximumandMinimumElement.dll
+C:\Users\Dimitar\source\repos\StacksAndQueuesExcc\03.MaximumandMinimumElement\obj\Debug\netcoreapp1.1\03.MaximumandMinimumElement.pdb
