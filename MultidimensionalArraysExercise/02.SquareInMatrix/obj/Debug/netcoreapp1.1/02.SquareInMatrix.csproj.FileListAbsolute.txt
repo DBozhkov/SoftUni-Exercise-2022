@@ -1,0 +1,10 @@
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\02.SquareInMatrix\bin\Debug\netcoreapp1.1\02.SquareInMatrix.deps.json
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\02.SquareInMatrix\bin\Debug\netcoreapp1.1\02.SquareInMatrix.runtimeconfig.json
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\02.SquareInMatrix\bin\Debug\netcoreapp1.1\02.SquareInMatrix.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\02.SquareInMatrix\bin\Debug\netcoreapp1.1\02.SquareInMatrix.dll
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\02.SquareInMatrix\bin\Debug\netcoreapp1.1\02.SquareInMatrix.pdb
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\02.SquareInMatrix\obj\Debug\netcoreapp1.1\02.SquareInMatrix.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\02.SquareInMatrix\obj\Debug\netcoreapp1.1\02.SquareInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\02.SquareInMatrix\obj\Debug\netcoreapp1.1\02.SquareInMatrix.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\02.SquareInMatrix\obj\Debug\netcoreapp1.1\02.SquareInMatrix.dll
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\02.SquareInMatrix\obj\Debug\netcoreapp1.1\02.SquareInMatrix.pdb

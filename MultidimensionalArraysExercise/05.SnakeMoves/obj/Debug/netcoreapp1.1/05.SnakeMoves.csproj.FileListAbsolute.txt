@@ -1,0 +1,9 @@
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\05.SnakeMoves\bin\Debug\netcoreapp1.1\05.SnakeMoves.deps.json
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\05.SnakeMoves\bin\Debug\netcoreapp1.1\05.SnakeMoves.runtimeconfig.json
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\05.SnakeMoves\bin\Debug\netcoreapp1.1\05.SnakeMoves.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\05.SnakeMoves\bin\Debug\netcoreapp1.1\05.SnakeMoves.dll
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\05.SnakeMoves\bin\Debug\netcoreapp1.1\05.SnakeMoves.pdb
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\05.SnakeMoves\obj\Debug\netcoreapp1.1\05.SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\05.SnakeMoves\obj\Debug\netcoreapp1.1\05.SnakeMoves.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\05.SnakeMoves\obj\Debug\netcoreapp1.1\05.SnakeMoves.dll
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\05.SnakeMoves\obj\Debug\netcoreapp1.1\05.SnakeMoves.pdb

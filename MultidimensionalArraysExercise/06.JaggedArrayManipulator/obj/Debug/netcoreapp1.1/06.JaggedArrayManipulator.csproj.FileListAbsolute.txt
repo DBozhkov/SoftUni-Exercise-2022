@@ -1,0 +1,10 @@
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\06.JaggedArrayManipulator\bin\Debug\netcoreapp1.1\06.JaggedArrayManipulator.deps.json
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\06.JaggedArrayManipulator\bin\Debug\netcoreapp1.1\06.JaggedArrayManipulator.runtimeconfig.json
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\06.JaggedArrayManipulator\bin\Debug\netcoreapp1.1\06.JaggedArrayManipulator.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\06.JaggedArrayManipulator\bin\Debug\netcoreapp1.1\06.JaggedArrayManipulator.dll
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\06.JaggedArrayManipulator\bin\Debug\netcoreapp1.1\06.JaggedArrayManipulator.pdb
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\06.JaggedArrayManipulator\obj\Debug\netcoreapp1.1\06.JaggedArrayManipulator.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\06.JaggedArrayManipulator\obj\Debug\netcoreapp1.1\06.JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\06.JaggedArrayManipulator\obj\Debug\netcoreapp1.1\06.JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\06.JaggedArrayManipulator\obj\Debug\netcoreapp1.1\06.JaggedArrayManipulator.dll
+C:\Users\Dimitar\source\repos\MultidimensionalArraysExercise\06.JaggedArrayManipulator\obj\Debug\netcoreapp1.1\06.JaggedArrayManipulator.pdb
