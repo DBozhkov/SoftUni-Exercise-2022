@@ -1,0 +1,10 @@
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\09.SoftUniExamResults\bin\Debug\netcoreapp1.1\09.SoftUniExamResults.deps.json
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\09.SoftUniExamResults\bin\Debug\netcoreapp1.1\09.SoftUniExamResults.runtimeconfig.json
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\09.SoftUniExamResults\bin\Debug\netcoreapp1.1\09.SoftUniExamResults.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\09.SoftUniExamResults\bin\Debug\netcoreapp1.1\09.SoftUniExamResults.dll
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\09.SoftUniExamResults\bin\Debug\netcoreapp1.1\09.SoftUniExamResults.pdb
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\09.SoftUniExamResults\obj\Debug\netcoreapp1.1\09.SoftUniExamResults.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\09.SoftUniExamResults\obj\Debug\netcoreapp1.1\09.SoftUniExamResults.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\09.SoftUniExamResults\obj\Debug\netcoreapp1.1\09.SoftUniExamResults.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\09.SoftUniExamResults\obj\Debug\netcoreapp1.1\09.SoftUniExamResults.dll
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\09.SoftUniExamResults\obj\Debug\netcoreapp1.1\09.SoftUniExamResults.pdb

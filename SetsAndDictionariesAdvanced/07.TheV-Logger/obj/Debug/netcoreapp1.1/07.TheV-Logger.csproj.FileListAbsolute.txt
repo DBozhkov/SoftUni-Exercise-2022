@@ -1,0 +1,10 @@
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\07.TheV-Logger\bin\Debug\netcoreapp1.1\07.TheV-Logger.deps.json
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\07.TheV-Logger\bin\Debug\netcoreapp1.1\07.TheV-Logger.runtimeconfig.json
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\07.TheV-Logger\bin\Debug\netcoreapp1.1\07.TheV-Logger.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\07.TheV-Logger\obj\Debug\netcoreapp1.1\07.TheV-Logger.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\07.TheV-Logger\obj\Debug\netcoreapp1.1\07.TheV-Logger.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\07.TheV-Logger\obj\Debug\netcoreapp1.1\07.TheV-Logger.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\07.TheV-Logger\bin\Debug\netcoreapp1.1\07.TheV-Logger.dll
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\07.TheV-Logger\bin\Debug\netcoreapp1.1\07.TheV-Logger.pdb
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\07.TheV-Logger\obj\Debug\netcoreapp1.1\07.TheV-Logger.dll
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\07.TheV-Logger\obj\Debug\netcoreapp1.1\07.TheV-Logger.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\netcoreapp1.1\04.EvenTimes.deps.json
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\netcoreapp1.1\04.EvenTimes.runtimeconfig.json
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\netcoreapp1.1\04.EvenTimes.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\netcoreapp1.1\04.EvenTimes.dll
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\netcoreapp1.1\04.EvenTimes.pdb
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\netcoreapp1.1\04.EvenTimes.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\netcoreapp1.1\04.EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\netcoreapp1.1\04.EvenTimes.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\netcoreapp1.1\04.EvenTimes.dll
+C:\Users\Dimitar\source\repos\SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\netcoreapp1.1\04.EvenTimes.pdb
