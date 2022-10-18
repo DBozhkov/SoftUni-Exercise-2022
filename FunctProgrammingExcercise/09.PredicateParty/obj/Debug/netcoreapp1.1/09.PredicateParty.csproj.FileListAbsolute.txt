@@ -1,0 +1,10 @@
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\09.PredicateParty\bin\Debug\netcoreapp1.1\09.PredicateParty.deps.json
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\09.PredicateParty\bin\Debug\netcoreapp1.1\09.PredicateParty.runtimeconfig.json
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\09.PredicateParty\bin\Debug\netcoreapp1.1\09.PredicateParty.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\09.PredicateParty\bin\Debug\netcoreapp1.1\09.PredicateParty.dll
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\09.PredicateParty\bin\Debug\netcoreapp1.1\09.PredicateParty.pdb
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\09.PredicateParty\obj\Debug\netcoreapp1.1\09.PredicateParty.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\09.PredicateParty\obj\Debug\netcoreapp1.1\09.PredicateParty.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\09.PredicateParty\obj\Debug\netcoreapp1.1\09.PredicateParty.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\09.PredicateParty\obj\Debug\netcoreapp1.1\09.PredicateParty.dll
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\09.PredicateParty\obj\Debug\netcoreapp1.1\09.PredicateParty.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\05.AppliedArithmetics\bin\Debug\netcoreapp1.1\05.AppliedArithmetics.deps.json
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\05.AppliedArithmetics\bin\Debug\netcoreapp1.1\05.AppliedArithmetics.runtimeconfig.json
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\05.AppliedArithmetics\bin\Debug\netcoreapp1.1\05.AppliedArithmetics.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\05.AppliedArithmetics\bin\Debug\netcoreapp1.1\05.AppliedArithmetics.dll
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\05.AppliedArithmetics\bin\Debug\netcoreapp1.1\05.AppliedArithmetics.pdb
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\05.AppliedArithmetics\obj\Debug\netcoreapp1.1\05.AppliedArithmetics.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\05.AppliedArithmetics\obj\Debug\netcoreapp1.1\05.AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\05.AppliedArithmetics\obj\Debug\netcoreapp1.1\05.AppliedArithmetics.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\05.AppliedArithmetics\obj\Debug\netcoreapp1.1\05.AppliedArithmetics.dll
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\05.AppliedArithmetics\obj\Debug\netcoreapp1.1\05.AppliedArithmetics.pdb

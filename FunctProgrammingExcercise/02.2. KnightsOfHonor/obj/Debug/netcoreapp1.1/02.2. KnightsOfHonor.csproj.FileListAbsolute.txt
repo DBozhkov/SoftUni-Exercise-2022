@@ -1,0 +1,10 @@
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\02.2. KnightsOfHonor\bin\Debug\netcoreapp1.1\02.2. KnightsOfHonor.deps.json
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\02.2. KnightsOfHonor\bin\Debug\netcoreapp1.1\02.2. KnightsOfHonor.runtimeconfig.json
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\02.2. KnightsOfHonor\bin\Debug\netcoreapp1.1\02.2. KnightsOfHonor.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\02.2. KnightsOfHonor\bin\Debug\netcoreapp1.1\02.2. KnightsOfHonor.dll
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\02.2. KnightsOfHonor\bin\Debug\netcoreapp1.1\02.2. KnightsOfHonor.pdb
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\02.2. KnightsOfHonor\obj\Debug\netcoreapp1.1\02.2. KnightsOfHonor.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\02.2. KnightsOfHonor\obj\Debug\netcoreapp1.1\02.2. KnightsOfHonor.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\02.2. KnightsOfHonor\obj\Debug\netcoreapp1.1\02.2. KnightsOfHonor.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\02.2. KnightsOfHonor\obj\Debug\netcoreapp1.1\02.2. KnightsOfHonor.dll
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\02.2. KnightsOfHonor\obj\Debug\netcoreapp1.1\02.2. KnightsOfHonor.pdb

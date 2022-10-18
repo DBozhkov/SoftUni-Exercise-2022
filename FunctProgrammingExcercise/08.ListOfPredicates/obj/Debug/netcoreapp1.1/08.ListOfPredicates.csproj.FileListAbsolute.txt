@@ -1,0 +1,9 @@
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\08.ListOfPredicates\bin\Debug\netcoreapp1.1\08.ListOfPredicates.deps.json
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\08.ListOfPredicates\bin\Debug\netcoreapp1.1\08.ListOfPredicates.runtimeconfig.json
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\08.ListOfPredicates\bin\Debug\netcoreapp1.1\08.ListOfPredicates.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\08.ListOfPredicates\bin\Debug\netcoreapp1.1\08.ListOfPredicates.dll
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\08.ListOfPredicates\bin\Debug\netcoreapp1.1\08.ListOfPredicates.pdb
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\08.ListOfPredicates\obj\Debug\netcoreapp1.1\08.ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\08.ListOfPredicates\obj\Debug\netcoreapp1.1\08.ListOfPredicates.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\08.ListOfPredicates\obj\Debug\netcoreapp1.1\08.ListOfPredicates.dll
+C:\Users\Dimitar\source\repos\FunctProgrammingExcercise\08.ListOfPredicates\obj\Debug\netcoreapp1.1\08.ListOfPredicates.pdb
