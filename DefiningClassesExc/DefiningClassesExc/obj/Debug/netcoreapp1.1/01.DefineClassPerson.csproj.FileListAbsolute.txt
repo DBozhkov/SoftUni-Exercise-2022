@@ -1,0 +1,10 @@
+C:\Users\Dimitar\source\repos\DefiningClassesExc\DefiningClassesExc\bin\Debug\netcoreapp1.1\01.DefineClassPerson.deps.json
+C:\Users\Dimitar\source\repos\DefiningClassesExc\DefiningClassesExc\bin\Debug\netcoreapp1.1\01.DefineClassPerson.runtimeconfig.json
+C:\Users\Dimitar\source\repos\DefiningClassesExc\DefiningClassesExc\bin\Debug\netcoreapp1.1\01.DefineClassPerson.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\DefiningClassesExc\DefiningClassesExc\bin\Debug\netcoreapp1.1\01.DefineClassPerson.dll
+C:\Users\Dimitar\source\repos\DefiningClassesExc\DefiningClassesExc\bin\Debug\netcoreapp1.1\01.DefineClassPerson.pdb
+C:\Users\Dimitar\source\repos\DefiningClassesExc\DefiningClassesExc\obj\Debug\netcoreapp1.1\01.DefineClassPerson.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\DefiningClassesExc\DefiningClassesExc\obj\Debug\netcoreapp1.1\01.DefineClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\DefiningClassesExc\DefiningClassesExc\obj\Debug\netcoreapp1.1\01.DefineClassPerson.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\DefiningClassesExc\DefiningClassesExc\obj\Debug\netcoreapp1.1\01.DefineClassPerson.dll
+C:\Users\Dimitar\source\repos\DefiningClassesExc\DefiningClassesExc\obj\Debug\netcoreapp1.1\01.DefineClassPerson.pdb

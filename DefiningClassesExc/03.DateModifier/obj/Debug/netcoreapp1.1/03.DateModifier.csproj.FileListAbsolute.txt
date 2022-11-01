@@ -1,0 +1,10 @@
+C:\Users\Dimitar\source\repos\DefiningClassesExc\03.DateModifier\bin\Debug\netcoreapp1.1\03.DateModifier.deps.json
+C:\Users\Dimitar\source\repos\DefiningClassesExc\03.DateModifier\bin\Debug\netcoreapp1.1\03.DateModifier.runtimeconfig.json
+C:\Users\Dimitar\source\repos\DefiningClassesExc\03.DateModifier\bin\Debug\netcoreapp1.1\03.DateModifier.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\DefiningClassesExc\03.DateModifier\bin\Debug\netcoreapp1.1\03.DateModifier.dll
+C:\Users\Dimitar\source\repos\DefiningClassesExc\03.DateModifier\bin\Debug\netcoreapp1.1\03.DateModifier.pdb
+C:\Users\Dimitar\source\repos\DefiningClassesExc\03.DateModifier\obj\Debug\netcoreapp1.1\03.DateModifier.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\DefiningClassesExc\03.DateModifier\obj\Debug\netcoreapp1.1\03.DateModifier.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\DefiningClassesExc\03.DateModifier\obj\Debug\netcoreapp1.1\03.DateModifier.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\DefiningClassesExc\03.DateModifier\obj\Debug\netcoreapp1.1\03.DateModifier.dll
+C:\Users\Dimitar\source\repos\DefiningClassesExc\03.DateModifier\obj\Debug\netcoreapp1.1\03.DateModifier.pdb

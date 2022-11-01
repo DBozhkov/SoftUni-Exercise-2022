@@ -1,0 +1,10 @@
+C:\Users\Dimitar\source\repos\DefiningClassesExc\04.RawData\bin\Debug\netcoreapp1.1\04.RawData.deps.json
+C:\Users\Dimitar\source\repos\DefiningClassesExc\04.RawData\bin\Debug\netcoreapp1.1\04.RawData.runtimeconfig.json
+C:\Users\Dimitar\source\repos\DefiningClassesExc\04.RawData\bin\Debug\netcoreapp1.1\04.RawData.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\DefiningClassesExc\04.RawData\bin\Debug\netcoreapp1.1\04.RawData.dll
+C:\Users\Dimitar\source\repos\DefiningClassesExc\04.RawData\bin\Debug\netcoreapp1.1\04.RawData.pdb
+C:\Users\Dimitar\source\repos\DefiningClassesExc\04.RawData\obj\Debug\netcoreapp1.1\04.RawData.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\DefiningClassesExc\04.RawData\obj\Debug\netcoreapp1.1\04.RawData.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\DefiningClassesExc\04.RawData\obj\Debug\netcoreapp1.1\04.RawData.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\DefiningClassesExc\04.RawData\obj\Debug\netcoreapp1.1\04.RawData.dll
+C:\Users\Dimitar\source\repos\DefiningClassesExc\04.RawData\obj\Debug\netcoreapp1.1\04.RawData.pdb

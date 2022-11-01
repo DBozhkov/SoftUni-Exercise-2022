@@ -1,0 +1,10 @@
+C:\Users\Dimitar\source\repos\DefiningClassesExc\02.OpinionPoll\bin\Debug\netcoreapp1.1\02.OpinionPoll.deps.json
+C:\Users\Dimitar\source\repos\DefiningClassesExc\02.OpinionPoll\bin\Debug\netcoreapp1.1\02.OpinionPoll.runtimeconfig.json
+C:\Users\Dimitar\source\repos\DefiningClassesExc\02.OpinionPoll\bin\Debug\netcoreapp1.1\02.OpinionPoll.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\DefiningClassesExc\02.OpinionPoll\bin\Debug\netcoreapp1.1\02.OpinionPoll.dll
+C:\Users\Dimitar\source\repos\DefiningClassesExc\02.OpinionPoll\bin\Debug\netcoreapp1.1\02.OpinionPoll.pdb
+C:\Users\Dimitar\source\repos\DefiningClassesExc\02.OpinionPoll\obj\Debug\netcoreapp1.1\02.OpinionPoll.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\DefiningClassesExc\02.OpinionPoll\obj\Debug\netcoreapp1.1\02.OpinionPoll.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\DefiningClassesExc\02.OpinionPoll\obj\Debug\netcoreapp1.1\02.OpinionPoll.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\DefiningClassesExc\02.OpinionPoll\obj\Debug\netcoreapp1.1\02.OpinionPoll.dll
+C:\Users\Dimitar\source\repos\DefiningClassesExc\02.OpinionPoll\obj\Debug\netcoreapp1.1\02.OpinionPoll.pdb
