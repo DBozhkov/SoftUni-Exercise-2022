@@ -1,0 +1,10 @@
+C:\Users\Dimitar\source\repos\GenericsExc\02.GenericBoxOfInteger\bin\Debug\netcoreapp2.2\02.GenericBoxOfInteger.deps.json
+C:\Users\Dimitar\source\repos\GenericsExc\02.GenericBoxOfInteger\bin\Debug\netcoreapp2.2\02.GenericBoxOfInteger.runtimeconfig.json
+C:\Users\Dimitar\source\repos\GenericsExc\02.GenericBoxOfInteger\bin\Debug\netcoreapp2.2\02.GenericBoxOfInteger.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\GenericsExc\02.GenericBoxOfInteger\bin\Debug\netcoreapp2.2\02.GenericBoxOfInteger.dll
+C:\Users\Dimitar\source\repos\GenericsExc\02.GenericBoxOfInteger\bin\Debug\netcoreapp2.2\02.GenericBoxOfInteger.pdb
+C:\Users\Dimitar\source\repos\GenericsExc\02.GenericBoxOfInteger\obj\Debug\netcoreapp2.2\02.GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\GenericsExc\02.GenericBoxOfInteger\obj\Debug\netcoreapp2.2\02.GenericBoxOfInteger.AssemblyInfoInputs.cache
+C:\Users\Dimitar\source\repos\GenericsExc\02.GenericBoxOfInteger\obj\Debug\netcoreapp2.2\02.GenericBoxOfInteger.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\GenericsExc\02.GenericBoxOfInteger\obj\Debug\netcoreapp2.2\02.GenericBoxOfInteger.dll
+C:\Users\Dimitar\source\repos\GenericsExc\02.GenericBoxOfInteger\obj\Debug\netcoreapp2.2\02.GenericBoxOfInteger.pdb
