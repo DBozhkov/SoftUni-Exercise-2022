@@ -1,0 +1,11 @@
+C:\Users\Dimitar\source\repos\IteratorsAndComparatorsExc\03.Stack\bin\Debug\netcoreapp2.2\03.Stack.deps.json
+C:\Users\Dimitar\source\repos\IteratorsAndComparatorsExc\03.Stack\bin\Debug\netcoreapp2.2\03.Stack.runtimeconfig.json
+C:\Users\Dimitar\source\repos\IteratorsAndComparatorsExc\03.Stack\bin\Debug\netcoreapp2.2\03.Stack.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\IteratorsAndComparatorsExc\03.Stack\bin\Debug\netcoreapp2.2\03.Stack.dll
+C:\Users\Dimitar\source\repos\IteratorsAndComparatorsExc\03.Stack\bin\Debug\netcoreapp2.2\03.Stack.pdb
+C:\Users\Dimitar\source\repos\IteratorsAndComparatorsExc\03.Stack\obj\Debug\netcoreapp2.2\03.Stack.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\IteratorsAndComparatorsExc\03.Stack\obj\Debug\netcoreapp2.2\03.Stack.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\IteratorsAndComparatorsExc\03.Stack\obj\Debug\netcoreapp2.2\03.Stack.AssemblyInfoInputs.cache
+C:\Users\Dimitar\source\repos\IteratorsAndComparatorsExc\03.Stack\obj\Debug\netcoreapp2.2\03.Stack.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\IteratorsAndComparatorsExc\03.Stack\obj\Debug\netcoreapp2.2\03.Stack.dll
+C:\Users\Dimitar\source\repos\IteratorsAndComparatorsExc\03.Stack\obj\Debug\netcoreapp2.2\03.Stack.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dimitar\source\repos\IteratorsAndComparatorsExc\01.ListyIterator\obj\Debug\netcoreapp2.2\01.ListyIterator.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\IteratorsAndComparatorsExc\01.ListyIterator\obj\Debug\netcoreapp2.2\01.ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\IteratorsAndComparatorsExc\01.ListyIterator\obj\Debug\netcoreapp2.2\01.ListyIterator.AssemblyInfoInputs.cache
+C:\Users\Dimitar\source\repos\IteratorsAndComparatorsExc\01.ListyIterator\obj\Debug\netcoreapp2.2\01.ListyIterator.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\IteratorsAndComparatorsExc\01.ListyIterator\bin\Debug\netcoreapp2.2\01.ListyIterator.deps.json
+C:\Users\Dimitar\source\repos\IteratorsAndComparatorsExc\01.ListyIterator\bin\Debug\netcoreapp2.2\01.ListyIterator.runtimeconfig.json
+C:\Users\Dimitar\source\repos\IteratorsAndComparatorsExc\01.ListyIterator\bin\Debug\netcoreapp2.2\01.ListyIterator.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\IteratorsAndComparatorsExc\01.ListyIterator\bin\Debug\netcoreapp2.2\01.ListyIterator.dll
+C:\Users\Dimitar\source\repos\IteratorsAndComparatorsExc\01.ListyIterator\bin\Debug\netcoreapp2.2\01.ListyIterator.pdb
+C:\Users\Dimitar\source\repos\IteratorsAndComparatorsExc\01.ListyIterator\obj\Debug\netcoreapp2.2\01.ListyIterator.dll
+C:\Users\Dimitar\source\repos\IteratorsAndComparatorsExc\01.ListyIterator\obj\Debug\netcoreapp2.2\01.ListyIterator.pdb
