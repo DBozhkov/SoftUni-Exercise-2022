@@ -1,0 +1,11 @@
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp2.2\02.TheBattleOfTheFiveArmies.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp2.2\02.TheBattleOfTheFiveArmies.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp2.2\02.TheBattleOfTheFiveArmies.AssemblyInfoInputs.cache
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp2.2\02.TheBattleOfTheFiveArmies.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\02.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp2.2\02.TheBattleOfTheFiveArmies.deps.json
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\02.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp2.2\02.TheBattleOfTheFiveArmies.runtimeconfig.json
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\02.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp2.2\02.TheBattleOfTheFiveArmies.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\02.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp2.2\02.TheBattleOfTheFiveArmies.dll
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\02.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp2.2\02.TheBattleOfTheFiveArmies.pdb
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp2.2\02.TheBattleOfTheFiveArmies.dll
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp2.2\02.TheBattleOfTheFiveArmies.pdb

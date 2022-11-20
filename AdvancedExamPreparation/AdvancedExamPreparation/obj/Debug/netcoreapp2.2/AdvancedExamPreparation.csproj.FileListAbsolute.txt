@@ -1,0 +1,11 @@
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\bin\Debug\netcoreapp2.2\AdvancedExamPreparation.deps.json
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\bin\Debug\netcoreapp2.2\AdvancedExamPreparation.runtimeconfig.json
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\bin\Debug\netcoreapp2.2\AdvancedExamPreparation.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\bin\Debug\netcoreapp2.2\AdvancedExamPreparation.dll
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\bin\Debug\netcoreapp2.2\AdvancedExamPreparation.pdb
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\obj\Debug\netcoreapp2.2\AdvancedExamPreparation.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\obj\Debug\netcoreapp2.2\AdvancedExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\obj\Debug\netcoreapp2.2\AdvancedExamPreparation.AssemblyInfoInputs.cache
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\obj\Debug\netcoreapp2.2\AdvancedExamPreparation.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\obj\Debug\netcoreapp2.2\AdvancedExamPreparation.dll
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\AdvancedExamPreparation\obj\Debug\netcoreapp2.2\AdvancedExamPreparation.pdb

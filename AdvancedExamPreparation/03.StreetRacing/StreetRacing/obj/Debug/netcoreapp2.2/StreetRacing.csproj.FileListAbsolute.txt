@@ -1,0 +1,11 @@
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\03.StreetRacing\StreetRacing\bin\Debug\netcoreapp2.2\StreetRacing.deps.json
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\03.StreetRacing\StreetRacing\bin\Debug\netcoreapp2.2\StreetRacing.runtimeconfig.json
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\03.StreetRacing\StreetRacing\bin\Debug\netcoreapp2.2\StreetRacing.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\03.StreetRacing\StreetRacing\bin\Debug\netcoreapp2.2\StreetRacing.dll
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\03.StreetRacing\StreetRacing\bin\Debug\netcoreapp2.2\StreetRacing.pdb
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\03.StreetRacing\StreetRacing\obj\Debug\netcoreapp2.2\StreetRacing.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\03.StreetRacing\StreetRacing\obj\Debug\netcoreapp2.2\StreetRacing.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\03.StreetRacing\StreetRacing\obj\Debug\netcoreapp2.2\StreetRacing.AssemblyInfoInputs.cache
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\03.StreetRacing\StreetRacing\obj\Debug\netcoreapp2.2\StreetRacing.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\03.StreetRacing\StreetRacing\obj\Debug\netcoreapp2.2\StreetRacing.dll
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\03.StreetRacing\StreetRacing\obj\Debug\netcoreapp2.2\StreetRacing.pdb

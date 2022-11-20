@@ -1,0 +1,11 @@
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\01.Masterchef\bin\Debug\netcoreapp2.2\01.Masterchef.deps.json
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\01.Masterchef\bin\Debug\netcoreapp2.2\01.Masterchef.runtimeconfig.json
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\01.Masterchef\bin\Debug\netcoreapp2.2\01.Masterchef.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\01.Masterchef\bin\Debug\netcoreapp2.2\01.Masterchef.dll
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\01.Masterchef\bin\Debug\netcoreapp2.2\01.Masterchef.pdb
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\01.Masterchef\obj\Debug\netcoreapp2.2\01.Masterchef.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\01.Masterchef\obj\Debug\netcoreapp2.2\01.Masterchef.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\01.Masterchef\obj\Debug\netcoreapp2.2\01.Masterchef.AssemblyInfoInputs.cache
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\01.Masterchef\obj\Debug\netcoreapp2.2\01.Masterchef.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\01.Masterchef\obj\Debug\netcoreapp2.2\01.Masterchef.dll
+C:\Users\Dimitar\source\repos\AdvancedExamPreparation\01.Masterchef\obj\Debug\netcoreapp2.2\01.Masterchef.pdb
