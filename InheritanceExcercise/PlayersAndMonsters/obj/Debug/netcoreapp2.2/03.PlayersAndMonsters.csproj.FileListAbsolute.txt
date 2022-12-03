@@ -1,0 +1,11 @@
+C:\Users\Dimitar\source\repos\InheritanceExcercise\PlayersAndMonsters\bin\Debug\netcoreapp2.2\03.PlayersAndMonsters.deps.json
+C:\Users\Dimitar\source\repos\InheritanceExcercise\PlayersAndMonsters\bin\Debug\netcoreapp2.2\03.PlayersAndMonsters.runtimeconfig.json
+C:\Users\Dimitar\source\repos\InheritanceExcercise\PlayersAndMonsters\bin\Debug\netcoreapp2.2\03.PlayersAndMonsters.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\InheritanceExcercise\PlayersAndMonsters\bin\Debug\netcoreapp2.2\03.PlayersAndMonsters.dll
+C:\Users\Dimitar\source\repos\InheritanceExcercise\PlayersAndMonsters\bin\Debug\netcoreapp2.2\03.PlayersAndMonsters.pdb
+C:\Users\Dimitar\source\repos\InheritanceExcercise\PlayersAndMonsters\obj\Debug\netcoreapp2.2\03.PlayersAndMonsters.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\InheritanceExcercise\PlayersAndMonsters\obj\Debug\netcoreapp2.2\03.PlayersAndMonsters.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\InheritanceExcercise\PlayersAndMonsters\obj\Debug\netcoreapp2.2\03.PlayersAndMonsters.AssemblyInfoInputs.cache
+C:\Users\Dimitar\source\repos\InheritanceExcercise\PlayersAndMonsters\obj\Debug\netcoreapp2.2\03.PlayersAndMonsters.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\InheritanceExcercise\PlayersAndMonsters\obj\Debug\netcoreapp2.2\03.PlayersAndMonsters.dll
+C:\Users\Dimitar\source\repos\InheritanceExcercise\PlayersAndMonsters\obj\Debug\netcoreapp2.2\03.PlayersAndMonsters.pdb
