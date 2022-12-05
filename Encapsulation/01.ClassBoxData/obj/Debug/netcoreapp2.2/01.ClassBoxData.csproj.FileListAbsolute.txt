@@ -1,0 +1,11 @@
+C:\Users\Dimitar\source\repos\Encapsulation\01.ClassBoxData\bin\Debug\netcoreapp2.2\01.ClassBoxData.deps.json
+C:\Users\Dimitar\source\repos\Encapsulation\01.ClassBoxData\bin\Debug\netcoreapp2.2\01.ClassBoxData.runtimeconfig.json
+C:\Users\Dimitar\source\repos\Encapsulation\01.ClassBoxData\bin\Debug\netcoreapp2.2\01.ClassBoxData.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\Encapsulation\01.ClassBoxData\bin\Debug\netcoreapp2.2\01.ClassBoxData.dll
+C:\Users\Dimitar\source\repos\Encapsulation\01.ClassBoxData\bin\Debug\netcoreapp2.2\01.ClassBoxData.pdb
+C:\Users\Dimitar\source\repos\Encapsulation\01.ClassBoxData\obj\Debug\netcoreapp2.2\01.ClassBoxData.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\Encapsulation\01.ClassBoxData\obj\Debug\netcoreapp2.2\01.ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\Encapsulation\01.ClassBoxData\obj\Debug\netcoreapp2.2\01.ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\Dimitar\source\repos\Encapsulation\01.ClassBoxData\obj\Debug\netcoreapp2.2\01.ClassBoxData.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\Encapsulation\01.ClassBoxData\obj\Debug\netcoreapp2.2\01.ClassBoxData.dll
+C:\Users\Dimitar\source\repos\Encapsulation\01.ClassBoxData\obj\Debug\netcoreapp2.2\01.ClassBoxData.pdb
