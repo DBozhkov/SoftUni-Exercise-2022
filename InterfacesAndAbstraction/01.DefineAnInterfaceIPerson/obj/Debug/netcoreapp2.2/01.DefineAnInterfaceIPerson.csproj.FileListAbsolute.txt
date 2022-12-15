@@ -1,0 +1,11 @@
+C:\Users\Dimitar\source\repos\InterfacesAndAbstraction\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.2\01.DefineAnInterfaceIPerson.deps.json
+C:\Users\Dimitar\source\repos\InterfacesAndAbstraction\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.2\01.DefineAnInterfaceIPerson.runtimeconfig.json
+C:\Users\Dimitar\source\repos\InterfacesAndAbstraction\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.2\01.DefineAnInterfaceIPerson.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\InterfacesAndAbstraction\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.2\01.DefineAnInterfaceIPerson.dll
+C:\Users\Dimitar\source\repos\InterfacesAndAbstraction\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.2\01.DefineAnInterfaceIPerson.pdb
+C:\Users\Dimitar\source\repos\InterfacesAndAbstraction\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.2\01.DefineAnInterfaceIPerson.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\InterfacesAndAbstraction\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.2\01.DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\InterfacesAndAbstraction\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.2\01.DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+C:\Users\Dimitar\source\repos\InterfacesAndAbstraction\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.2\01.DefineAnInterfaceIPerson.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\InterfacesAndAbstraction\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.2\01.DefineAnInterfaceIPerson.dll
+C:\Users\Dimitar\source\repos\InterfacesAndAbstraction\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.2\01.DefineAnInterfaceIPerson.pdb
