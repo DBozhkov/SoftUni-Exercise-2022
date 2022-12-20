@@ -1,0 +1,11 @@
+C:\Users\Dimitar\source\repos\Polymorphism\01.Vehicles\obj\Debug\netcoreapp2.2\01.Vehicles.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\Polymorphism\01.Vehicles\obj\Debug\netcoreapp2.2\01.Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\Polymorphism\01.Vehicles\obj\Debug\netcoreapp2.2\01.Vehicles.AssemblyInfoInputs.cache
+C:\Users\Dimitar\source\repos\Polymorphism\01.Vehicles\obj\Debug\netcoreapp2.2\01.Vehicles.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\Polymorphism\01.Vehicles\bin\Debug\netcoreapp2.2\01.Vehicles.deps.json
+C:\Users\Dimitar\source\repos\Polymorphism\01.Vehicles\bin\Debug\netcoreapp2.2\01.Vehicles.runtimeconfig.json
+C:\Users\Dimitar\source\repos\Polymorphism\01.Vehicles\bin\Debug\netcoreapp2.2\01.Vehicles.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\Polymorphism\01.Vehicles\bin\Debug\netcoreapp2.2\01.Vehicles.dll
+C:\Users\Dimitar\source\repos\Polymorphism\01.Vehicles\bin\Debug\netcoreapp2.2\01.Vehicles.pdb
+C:\Users\Dimitar\source\repos\Polymorphism\01.Vehicles\obj\Debug\netcoreapp2.2\01.Vehicles.dll
+C:\Users\Dimitar\source\repos\Polymorphism\01.Vehicles\obj\Debug\netcoreapp2.2\01.Vehicles.pdb
